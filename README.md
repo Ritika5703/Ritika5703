@@ -70,8 +70,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
-
----
-
-> 🌼 *“Code like a girl, shine like a star!”*  
-> 🌈 Star this repo if you love aesthetic READMEs 💖
