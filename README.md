@@ -18,12 +18,10 @@
 </div>
 
 ### 💁🏻‍♀️ About Me
+👋 Hey there! I'm Ritika Mishra, a MERN Stack learner passionate about building web applications with JavaScript, React, Node.js, and MongoDB. I'm currently learning and exploring the world of full-stack development, and I'm excited to take on new challenges and projects.
 
-- 👋 Hey there! I'm Ritika Mishra  
-- 💻 Passionate MERN Stack Explorer  
-- 🌸 UI/UX Enthusiast with a love for sleek, animated designs  
-- ✨ I love building beautiful things and learning as I go  
-- 📬 Let's connect — social links below 💌
+💻 I'm looking forward to gaining hands-on experience, learning from others, and contributing to projects that help me grow as a developer. Let's connect and learn together! 💬
+
 
 
 ---
