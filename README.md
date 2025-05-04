@@ -69,3 +69,13 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
+
+### 🔥 What I'm Working On
+* Exploring new features of React and Node.js
+* Building a full-stack application with MERN stack
+* Improving my UI/UX design skills
+
+### 🤝 Let's Collaborate
+* I'm looking for opportunities to work on open-source projects
+* Interested in collaborating on MERN stack projects
+* Let's connect and build something amazing together!
