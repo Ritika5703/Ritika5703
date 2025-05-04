@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ritika5703&color=ff69b4" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Code%20with%20Heart-%F0%9F%92%96-ffb6c1" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet" />
 </p>
 
