@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=FBA1B7&width=500&lines=Hey%2C+I'm+Ritika+Mishra+%F0%9F%92%97;MERN+Stack+Developer;Designing+Dreams+with+Code+%F0%9F%A4%9D;Always+Learning%2C+Creating%2C+Leveling+Up+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=FBA1B7&width=500&lines=Hey%2C+I'm+Ritika+Mishra;MERN+Stack+Developer;Designing+Dreams+with+Code+%F0%9F%A4%9D;Always+Learning%2C+Creating%2C+Leveling+Up+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Banner -->
