@@ -167,9 +167,6 @@
   <a href="mailto:ritikamishra5703@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://www.instagram.com/ritikaa5703/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
 </p>
 
 <!-- <p align="center">
