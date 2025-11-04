@@ -105,9 +105,9 @@
       </p>
       <ul>
         <li>Advanced React patterns and hooks</li>
-        <li>State management with Redux & Context API</li>
+        <!-- <li>State management with Redux & Context API</li> -->
         <li>Building RESTful APIs with Express</li>
-        <li>MongoDB aggregation pipelines</li>
+        <!-- <li>MongoDB aggregation pipelines</li> -->
         <li>Modern UI/UX principles</li>
       </ul>
     </td>
@@ -135,7 +135,6 @@
       <ul>
         <li>👯 Looking to collaborate on <b>MERN Stack applications</b></li>
         <li>🔍 Seeking opportunities to contribute to <b>open-source projects</b></li>
-        <li>🌱 Interested in <b>mentorship</b> connections</li>
         <li>💬 Always open to discussing <b>web development</b> ideas</li>
         <li>🤝 Let's connect and build something <b>amazing</b> together!</li>
       </ul>
@@ -147,18 +146,6 @@
 </table>
 
 ## 📫 Connect With Me
-
-<p align="center">
-<!--   <a href="https://www.linkedin.com/in/ritikamishra5703/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ritikamishra5703@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/ritikaa5703/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritikamishra5703/" target="_blank">
